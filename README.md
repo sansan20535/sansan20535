@@ -13,9 +13,11 @@
 # 📁 Projects
 |Name|Discription|Role|Date|
 |--|--|--|--|
-[ORB(오브)](https://github.com/) | AI 캐릭터와 함께 일상을 모험하는 온오프라인 연계형 모험 게임 | Server Developer | 2024.06 ~
-[COCOS(코코스)](https://github.com/) | 반려인들의 간절한 마음이 모이는 치유의 공간 | Server Developer | 2024.12 ~
-[MOKKOJI(모꼬지)](https://github.com/) | 세종대학교 내 동아리 탐색 및 관리 플랫폼 | Server Developer | 2025.02 ~ 
+[WEBSOSO(웹소소)](https://github.com/Team-WSS) | 세종대학교 내 동아리 탐색 및 관리 플랫폼 | Server Developer | 2025.04 ~ 
+[MOKKOJI(모꼬지)](https://github.com/greedy-team) | 세종대학교 내 동아리 탐색 및 관리 플랫폼 | Server Developer | 2025.02 ~ 
+[COCOS(코코스)](https://github.com/cocos-pet) | 반려인들의 간절한 마음이 모이는 치유의 공간 | Server Developer | 2024.12 ~
+[ORB(오브)](https://github.com/Team-Offroad) | AI 캐릭터와 함께 일상을 모험하는 온오프라인 연계형 모험 게임 | Server Developer | 2024.06 ~
+
 
 # 💡 Experience
 |Name|Discription|Role|Date|
